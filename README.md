@@ -4,4 +4,4 @@ PyTorch Implementation for "HRCF: Enhancing Collaborative Filtering via Hyperbol
 
 The pytorch code may be released after testing on Mindspore, and if you are interested in the pytorch code, send an email to 
 
-mlyang@cse.cuhk.edu.hk
+menglin.yang@outlook.com
