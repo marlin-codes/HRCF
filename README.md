@@ -3,7 +3,7 @@ This is the implementation for "[HRCF: Enhancing Collaborative Filtering via Hyp
 
 
 The PyTorch code is ready and if you are interested, feel free to send an email to menglin.yang@outlook.com.
-Code will be publicly released after testing on Huawei mindspore framework.
+Code will be publicly released after testing on mindspore framework.
 
 Thanks for your interest.
 
