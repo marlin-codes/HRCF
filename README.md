@@ -12,3 +12,16 @@ Menglin
 Department of Computer Sciences and Engineering
 
 The Chinese University of Hong Kong
+
+
+## Citation
+
+If you find this code useful in your research, please cite the following paper:
+
+    @inproceedings{yang2022hrcf,
+      title={HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization},
+      author={Menglin Yang, Min Zhou, Jiahong Liu, Defu Lian, Irwin King},
+      booktitle={Proceedings of the International World Wide Web Conference},
+      year={2022}
+    }
+
